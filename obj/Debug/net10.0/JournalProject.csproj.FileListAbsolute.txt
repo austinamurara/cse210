@@ -1,4 +1,15 @@
+C:\JournalProject\bin\Debug\net10.0\JournalProject.exe
+C:\JournalProject\bin\Debug\net10.0\JournalProject.deps.json
+C:\JournalProject\bin\Debug\net10.0\JournalProject.runtimeconfig.json
+C:\JournalProject\bin\Debug\net10.0\JournalProject.dll
+C:\JournalProject\bin\Debug\net10.0\JournalProject.pdb
 C:\JournalProject\obj\Debug\net10.0\JournalProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\JournalProject\obj\Debug\net10.0\JournalProject.AssemblyInfoInputs.cache
 C:\JournalProject\obj\Debug\net10.0\JournalProject.AssemblyInfo.cs
 C:\JournalProject\obj\Debug\net10.0\JournalProject.csproj.CoreCompileInputs.cache
+C:\JournalProject\obj\Debug\net10.0\JournalProject.sourcelink.json
+C:\JournalProject\obj\Debug\net10.0\JournalProject.dll
+C:\JournalProject\obj\Debug\net10.0\refint\JournalProject.dll
+C:\JournalProject\obj\Debug\net10.0\JournalProject.pdb
+C:\JournalProject\obj\Debug\net10.0\JournalProject.genruntimeconfig.cache
+C:\JournalProject\obj\Debug\net10.0\ref\JournalProject.dll
