@@ -1,0 +1,4 @@
+C:\JournalProject\obj\Debug\net10.0\JournalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\JournalProject\obj\Debug\net10.0\JournalProject.AssemblyInfoInputs.cache
+C:\JournalProject\obj\Debug\net10.0\JournalProject.AssemblyInfo.cs
+C:\JournalProject\obj\Debug\net10.0\JournalProject.csproj.CoreCompileInputs.cache
