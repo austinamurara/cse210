@@ -7,6 +7,7 @@ C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.GeneratedMSBui
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfoInputs.cache
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfo.cs
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.sourcelink.json
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.dll
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\refint\ScriptureMemorizer.dll
 C:\cse210\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.pdb
