@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoutubeVideos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74bb042b8f619293003dd521e03106b8d49f4da6")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoutubeVideos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoutubeVideos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
