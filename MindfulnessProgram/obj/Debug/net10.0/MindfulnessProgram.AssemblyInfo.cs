@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MindfulnessProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841586bab2a2291533587b14aae748433c2d6d90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2755101c4af9788e79081d6b4c479c170008bff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MindfulnessProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MindfulnessProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
