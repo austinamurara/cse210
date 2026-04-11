@@ -1,0 +1,15 @@
+C:\cse210\EternalQuest\bin\Debug\net10.0\EternalQuest.exe
+C:\cse210\EternalQuest\bin\Debug\net10.0\EternalQuest.deps.json
+C:\cse210\EternalQuest\bin\Debug\net10.0\EternalQuest.runtimeconfig.json
+C:\cse210\EternalQuest\bin\Debug\net10.0\EternalQuest.dll
+C:\cse210\EternalQuest\bin\Debug\net10.0\EternalQuest.pdb
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.AssemblyInfoInputs.cache
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.AssemblyInfo.cs
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.sourcelink.json
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.dll
+C:\cse210\EternalQuest\obj\Debug\net10.0\refint\EternalQuest.dll
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.pdb
+C:\cse210\EternalQuest\obj\Debug\net10.0\EternalQuest.genruntimeconfig.cache
+C:\cse210\EternalQuest\obj\Debug\net10.0\ref\EternalQuest.dll
